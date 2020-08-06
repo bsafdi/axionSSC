@@ -7,7 +7,7 @@
 
 ![Sensitivity](https://github.com/bsafdi/axionSSC/blob/master/Plots/Fig3.png "Fiducial Axion Constraints")
 
-axionSSC is a public data release of results from a search for axions produced in hot cores of young stars in super star clusters that convert to X-ray photons in the galactic magnetic field. 95% upper limits on the axion-photon coupling from by the analysis of the Nustar observations of Quintuplet and Westerlund1 clusters are made available in this github repository. More complete data and results may be made available upon request. If these data contribute to published work, please cite the original reference [2008.XXXXX](https://arxiv.org/abs/2008.XXXXX). 
+axionSSC is a public data release of results from a search for axions produced in hot cores of young stars in super star clusters that convert to X-ray photons in the galactic magnetic field. 95% upper limits on the axion-photon coupling from the analysis of the Nustar observations of Quintuplet and Westerlund1 clusters are made available in this github repository. More complete data and results may be made available upon request. If these data contribute to published work, please cite the original reference [2008.XXXXX](https://arxiv.org/abs/2008.XXXXX). 
 
 ## Authors
 - Christopher Dessert; dessert at umich dot edu
