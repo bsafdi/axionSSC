@@ -2,7 +2,7 @@
 
 **A Public Data Release of Analysis Results**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2008.XXXXX%20-green.svg)](https://arxiv.org/abs/2008.03305)
+[![arXiv](https://img.shields.io/badge/arXiv-2008.03305%20-green.svg)](https://arxiv.org/abs/2008.03305)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Sensitivity](https://github.com/bsafdi/axionSSC/blob/master/Plots/Fig3.png "Fiducial Axion Constraints")
